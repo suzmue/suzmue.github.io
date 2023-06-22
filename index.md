@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome to my website!
+Building developer tools for Go :)
