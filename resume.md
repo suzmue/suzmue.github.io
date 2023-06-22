@@ -8,7 +8,7 @@ permalink: /resume/
 ### Software Engineer at Google, Go Programming Language Team 
 August 2020 - Present, New York, NY
 
-Engineering owner of the Go Module Proxy, a critical service of the Go ecosystem that serves 50k QPS traffic
+Engineering lead of the Go Module Proxy, a critical service of the Go ecosystem that serves 50k QPS traffic
 * Resolved technical issues by leading technical discussions, writing design docs, and implementing solutions
     * Redesigned caching system to reduce resource consumption and avoid unnecessary downloads
     * Achieved 10x latency and resource usage reduction for requests by optimizing database queries
@@ -60,10 +60,10 @@ Computer Science and Engineering; June 2017
 
 ## Speaking
 --------------
-Gophercon 2021: [https://youtu.be/ZPIPPRjwg7Q](https://youtu.be/ZPIPPRjwg7Q)
+Gophercon 2021: <https://youtu.be/ZPIPPRjwg7Q>
 
-Google Open Source Live - Go Day 2021: https://youtu.be/jMyzsp2E_0U
+Google Open Source Live - Go Day 2021: <https://youtu.be/jMyzsp2E_0U>
 
-GopherCon EU 2021 - Go Tools Panel: https://youtu.be/YUCLjVM8gwA
+GopherCon EU 2021 - Go Tools Panel: <https://youtu.be/YUCLjVM8gwA>
 
-VS Code Live Stream, June 2021: https://youtu.be/6r08zGi38Tk
+VS Code Live Stream, June 2021: <https://youtu.be/6r08zGi38Tk>
