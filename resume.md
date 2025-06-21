@@ -5,8 +5,15 @@ permalink: /resume/
 ---
 ## Experience
 --------------
+### Senior Software Engineer at Google, Cloud SDK Team 
+July 2024 - Present, Seattle, WA
+
+Building the Google Cloud Rust SDK
+
+Improved gcloud related responses in Gemini Cloud Assist
+
 ### Software Engineer at Google, Go Programming Language Team 
-August 2020 - Present, New York, NY
+August 2020 - June 2024, New York, NY
 
 Engineering lead of the Go Module Proxy, a critical service of the Go ecosystem that serves 50k QPS traffic
 * Resolved technical issues by leading technical discussions, writing design docs, and implementing solutions

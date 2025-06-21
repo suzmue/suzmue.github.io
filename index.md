@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Building developer tools for Go :)
+Based in Seattle, WA. Working @ Google.
